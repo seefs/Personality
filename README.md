@@ -33,17 +33,27 @@
 #### 　表2 声调与编码的关系
 
 <table>
-	<tr>
-		<td >orange</td>
-		
-声调 | 编码
------ | -----
-1 | 1
-2 | 2
-3 | 2
-4 | 3
-
-	</tr>
+<tr>
+	<td >
+		<table>
+		<tr>
+			<td >声调</td>
+			<td >编码</td>
+		</tr>
+		<tr>
+			<td >1</td>
+			<td >1</td>
+		</tr>
+		<tr>
+			<td >2</td>
+			<td >2</td>
+		</tr>
+		</table>
+	</td>
+	
+	<td >orange
+	</td>
+</tr>
 </table>
 
 
