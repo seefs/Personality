@@ -1,10 +1,10 @@
 # 性格
 
-### 性格是如何产生的？<br>
+性格是如何产生的？这是一个奇怪的问题，答案可能也奇怪。<br>
 
-至今，没有人能证明产生性格的因素是先天的，还是后天后，或者两者都不是。<br>
-奇怪的是，也没有人愿意去证明，因为正常情况下毫无头绪。<br>
-因此，对于接下来的任何解释，你都不要感到奇怪。<br>
+这里统计了7728个人名，从数据上看，很容易得出结论。这里只作记录，不是为了证明。无须干预他人怎么想。<br>
+
+我估计，性格产生的因素即不是先天的，也不是后天后。那是一种超越感知的影响。重复一遍，这里只作记录。<br>
 
 
 ## 1．如何计算性格？
@@ -76,11 +76,11 @@
 
 
 ---------------
-[figure_4X1]:/image/short/Figure_4X1.jpg
-[type_a]:/image/long/type_a.jpg
-[type_c]:/image/long/type_c.jpg
-[table_1]:/image/table_1.jpg
-[table_2]:/image/table_2.jpg
-[table_update]:/image/table_update.jpg
-[table_vrf]:/image/table_vrf.jpg
+[figure_4X1]:/image/mid/Figure_4X1.jpg
+[type_a]:/image/big/type_a.jpg
+[type_c]:/image/big/type_c.jpg
+[table_1]:/image/big/table_1.jpg
+[table_2]:/image/big/table_2.jpg
+[table_update]:/image/big/table_update.jpg
+[table_vrf]:/image/big/table_vrf.jpg
 
