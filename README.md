@@ -12,19 +12,19 @@
 
     姓名 -> 拼音 -> 声调 -> 编码 -> 类型
 
-#### 　表1 举例（2019年8个最佳负面人物）
-![table_1][table_1]
+#### 　表1 举例（2019年8个最佳负面人物）　　[查看大图](/image/big/table_1.jpg)<br>
+![table_1_small][table_1_small]
 
 备注： 孙小果，原名陈果，chén guǒ，编码22，修改为类型E<br>
 　　　 张扣扣，原名张小波，zhāng xiǎo bō，编码121，修改为类型C<br>
 
-#### 　表2 声调与编码的关系　　　　　　　　　　　　　           表3 编码与类型的关系
-![table_2][table_2]
+#### 　表2 声调与编码的关系　　　　　　　　　　　　　           表3 编码与类型的关系　　[查看大图](/image/big/table_2.jpg)<br>
+![table_2_small][table_2_small]
 
 
 ## 2．性格验证
-以下表格是我能搜到的一些人员名单，从中可以看出部分职业受到了性格的影响。
-![table_vrf][table_vrf]
+以下表格是我能搜到的一些人员名单，从中可以看出部分职业受到了性格的影响。　　[查看大图](/image/big/table_vrf.jpg)<br>
+![table_vrf_small][table_vrf_small]
 
 对于这份统计，我有一些主观看法，不知道亲们是否有不同理解？
 * 类型B表示交流，翻译方面有一定优势；
@@ -56,31 +56,34 @@
 　[查看详细统计](/csv/10.特警.csv)<br>
 
 
-## 3．持续更新，2020年~至今，杀人犯名单，估计C类型最多，静待验证。
-![table_update][table_update]
+## 3．持续更新，2020年~至今，杀人犯名单，估计C类型最多，静待验证。　　[查看大图](/image/big/table_update.jpg)<br>
+![table_update_small][table_update_small]
 
 
 ## 4．整理工具
 想做验证，或者其他职业的影响分析，可用这2个小工具。只需要另外搜一些数据即可。
-* ./tool/性格批量计算.xlsm
-* ./tool/性格统计上传.xlsx
+* [./tool/性格批量计算.xlsm](/tool/)<br>
+* [./tool/性格统计上传.xlsm](/tool/)<br>
 
 
 ## 5．性格的编码与模型
 以下是类型A~F，一共36种编码的模型。如果想做更详细的分析，这些模型会有帮助。<br>
-[查看详细模型AB](type_a)<br>
-[查看详细模型CDEF](type_c)<br>
-[查看详细模型CDEF]([type_c])<br>
+[查看详细模型A~B](/image/big/type_a.jpg)<br>
+[查看详细模型C~F](/image/big/type_c.jpg)<br>
 
-![figure_4X1][figure_4X1]
+![model_small][model_small]
 
 
 ---------------
-[figure_4X1]:/image/mid/Figure_4X1.jpg
-[type_a]:/image/big/type_a.jpg
-[type_c]:/image/big/type_c.jpg
-[table_1]:/image/big/table_1.jpg
-[table_2]:/image/big/table_2.jpg
-[table_update]:/image/big/table_update.jpg
-[table_vrf]:/image/big/table_vrf.jpg
+[model_small]:/image/small/model.jpg
+[table_1_small]:/image/big/table_1.jpg
+[table_2_small]:/image/big/table_2.jpg
+[table_update_small]:/image/big/table_update.jpg
+[table_vrf_small]:/image/big/table_vrf.jpg
 
+[model_ab]:/image/big/type_a.jpg
+[model_cdef]:/image/big/type_c.jpg
+[table_1_big]:/image/big/table_1.jpg
+[table_2_big]:/image/big/table_2.jpg
+[table_update_big]:/image/big/table_update.jpg
+[table_vrf_big]:/image/big/table_vrf.jpg
